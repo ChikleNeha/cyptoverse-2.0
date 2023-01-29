@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #1e1e1e;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+
+Link {
+  text-decoration: none;
+  color: white;
+}
